@@ -1,1 +1,4 @@
 .DS_Store
+/.vs
+/Triangulator/bin/Debug
+/Triangulator/obj
